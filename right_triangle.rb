@@ -1,4 +1,4 @@
-#encodinng UTF-8
+#encoding: utf-8
 #получим у пользователя длины сторон треугольника a,b,c
 puts 'Введите длину стороны треугольника a'
 a = STDIN.gets.chomp.to_f

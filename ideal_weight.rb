@@ -1,4 +1,4 @@
-#encoding UTF-8
+#encoding: utf-8
 #попросим пользователя последовательно ввести его имя user_name и его рост
 puts 'Введите ваше имя'
 user_name = gets.chomp
